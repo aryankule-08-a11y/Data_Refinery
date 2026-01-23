@@ -1,0 +1,11 @@
+Customer_ID,Name,Email,Age,Joining_Date,City
+1, John Doe ,john@example.com,25.0,2023-01-01,New York
+2,Jane Smith,jane@test,30.0,2023/02/15,Los Angeles
+2,Jane Smith,jane@test,30.0,2023/02/15,Los Angeles
+4,Bob Brown,bob@example,,"March 10, 2023",Chicago
+5,Alice Green,alice@domain.com,45.0,2023-05-20,
+6, Charlie ,charlie@web.com,150.0,2023-06-01,New York
+7,David ,david@mail.com,22.0,2023-07-01,Austin
+8,,unknown,28.0,2023-08-01,Seattle
+9,Eve,eve@site.com,35.0,2023-09-01,Chicago
+10,Frank,frank@box.com,40.0,2023-10-01,Miami
